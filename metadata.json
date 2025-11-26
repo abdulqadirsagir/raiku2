@@ -1,0 +1,5 @@
+{
+  "name": "Raiku Explainer & Quiz",
+  "description": "A cyber-minimalist website explaining Raiku, featuring a search powered by Gemini, an interactive quiz game, and a leaderboard.",
+  "requestFramePermissions": []
+}
